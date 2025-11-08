@@ -1,0 +1,5 @@
+{
+  "name": "Copy of StoryTime AI",
+  "description": "An interactive application for kids that generates stories, reads them aloud with Text-to-Speech, and creates unique illustrations for every page using Gemini AI. It also includes a friendly chatbot for kids to ask questions.",
+  "requestFramePermissions": []
+}
